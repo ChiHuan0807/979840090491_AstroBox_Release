@@ -1,0 +1,29 @@
+{
+  "item": {
+    "id": "979840090491",
+    "name": "熹光",
+    "description": "移植自Xiaomi Watch 5，版权归小米所有，非商业用途，侵权请联系删除",
+    "preview": [
+      "画板 1.png"
+    ],
+    "icon": "logo.png",
+    "cover": "画板 1.png",
+    "source_url": "https://github.com/ChiHuan0807/979840090491_AstroBox_Release",
+    "author": [
+      {
+        "name": "ChiHuan0807",
+        "author_url": "https://astrobooox-ng.waijade.cn/publish"
+      },
+      {
+        "name": "版权归小米所有，非商业用途，侵权请联系删除",
+        "author_url": "https://mi.cn/"
+      }
+    ]
+  },
+  "downloads": {
+    "p62": {
+      "version": "1.0.0",
+      "file_name": "S5_熹光.bin"
+    }
+  }
+}
